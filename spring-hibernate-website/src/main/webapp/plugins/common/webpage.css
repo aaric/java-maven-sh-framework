@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+.webpage .page-first { margin: 0 3px; padding: 0 0 0 18px; background: url("images/webpage.gif") no-repeat 0 0; }
+.webpage .page-prev { margin: 0 3px; padding: 0 0 0 18px; background: url("images/webpage.gif") no-repeat -18px 0; }
+.webpage .page-next { margin: 0 3px; padding: 0 0 0 18px; background: url("images/webpage.gif") no-repeat -36px 0; }
+.webpage .page-end { margin: 0 3px; padding: 0 0 0 18px; background: url("images/webpage.gif") no-repeat -54px 0; }
